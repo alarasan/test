@@ -4,6 +4,6 @@ test
 de prueba
 
 
-*uno
-*dos
-*tres
+* uno
+* dos
+* tres
